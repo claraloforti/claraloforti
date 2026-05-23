@@ -1,6 +1,6 @@
 # Hi there, I'm Clara 👋
 
-I'm a **Junior Full Stack Web Developer** passionate about building clean, functional and user-friendly web applications.
+I'm a **Junior Full Stack Web Developer**, focused on the frontend and driven by user experience — I build interfaces that are as intuitive as they are functional.
 
 I completed a full **Full Stack Web Development** training program with **Boolean**, where I gained hands-on experience across the entire development stack — from designing responsive UIs to building RESTful APIs and managing databases.
 
